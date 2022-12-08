@@ -11,8 +11,11 @@ Mappings of various composer symphony and the short names used in output sheet -
 
 Link to output file -
 aggregated view in a column of last run [mind end up using this one for tda bot trading] - https://drive.google.com/file/d/13ER4Rvm9vo0b-LvPvSwjgs0PwTROJuMa/view?usp=sharing
+
 unaggregated, row view of last run - https://drive.google.com/file/d/13btAxPPNm1nYvzzJ0prTW3kFsY6Vd99o/view?usp=sharing
+
 historical data [unaggregated row view] - https://drive.google.com/file/d/13Et8KRpCO9eyzGo9TDkYv_WnAP7-M3ON/view?usp=sharing
+
 historical metrrics data - https://drive.google.com/file/d/13WFpiU4bUJ2yfdUSHha1PgWZuUo-Ekui/view?usp=sharing
 
 Gist file that shows code, where line number can be mapped in Singal2/Signal historical file to find the branch which triggered the signal
