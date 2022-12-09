@@ -35,6 +35,7 @@ redirect_uri=https://localhost or http://localhost ( based on what you used in "
 
 click SEND 
 check response button, it will have a success message with Bearer auth code and refresh token key. Save these two keys.
+use the value of access_token in the "your bearer key" field in sample program attached in this folder to test out a sample trade.
 
 
 
