@@ -37,5 +37,7 @@ click SEND
 check response button, it will have a success message with Bearer auth code and refresh token key. Save these two keys.
 use the value of access_token in the "your bearer key" field in sample program attached in this folder to test out a sample trade.
 
+This access_token gets expired every 30 minutes, but we can use the refresh_token that was also provided along with this to get the access_token programtically as and when needed. And we have to repeated most of the above steps to get the refresh token again after 90 days.
+
 
 
