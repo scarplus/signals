@@ -29,7 +29,7 @@ payload = {
   ]
 }
 	
-Bearer_Token='Bearer '+Your_bearer_token_key
+Bearer_Token='Bearer '+bearer_token
 # set the headers
 headers = {
     'Authorization': Bearer_Token
