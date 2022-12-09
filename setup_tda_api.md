@@ -1,6 +1,8 @@
 https://developer.tdameritrade.com/
 Create a developer account.
 Then create an app in "My Apps"
+
+
 <img width="181" alt="image" src="https://user-images.githubusercontent.com/112670649/206616542-7b818004-bccf-48dd-ad91-25904a991acb.png">
 save the app.
 
