@@ -7,6 +7,8 @@ This project is to use various trading algorithms and generate python based outp
 
 Any changes in links will be updated here going forward.
 
+Mongo Charts https://charts.mongodb.com/charts-signal-wuqhd/public/dashboards/8273f444-cea6-482d-b232-d27018c3120b
+
 Mappings of various composer symphony and the short names used in output sheet -- https://docs.google.com/spreadsheets/d/1duub-kYJIrBrEEbuytyWt7L7xuD-BmkwCTH86usd4oI/edit#gid=0
 
 Link to output file -
