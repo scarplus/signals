@@ -7,7 +7,8 @@ This project is to use various trading algorithms and generate python based outp
 
 Any changes in links will be updated here going forward.
 
-Mongo Charts https://charts.mongodb.com/charts-signal-wuqhd/public/dashboards/8273f444-cea6-482d-b232-d27018c3120b
+Mongo Chart on various metrtics/performance. https://charts.mongodb.com/charts-signal-wuqhd/public/dashboards/8273f444-cea6-482d-b232-d27018c3120b
+Gain % since last Market Close - this chart is updated every hour from 9am est to 4pm est. Other charts get updated using 3:56pm(~4pm) data everyday.
 
 Mappings of various composer symphony and the short names used in output sheet -- https://docs.google.com/spreadsheets/d/1duub-kYJIrBrEEbuytyWt7L7xuD-BmkwCTH86usd4oI/edit#gid=0
 
