@@ -13,6 +13,7 @@ Mappings of various composer symphony and the short names used in output sheet -
 
 Link to output file -
 aggregated view in a column of last run [might end up using this one for tda bot trading] - https://drive.google.com/file/d/13ER4Rvm9vo0b-LvPvSwjgs0PwTROJuMa/view?usp=sharing
+This file will be generated at 10:15am, 12:30pm, 12:56pm, 2:30pm, 3:01pm, 3:15pm.. every 10 minutes then until 4:01pm, 8:30pm
 
 Link to Current Percentage Gain Report for various symfs in mapping file. This file will show symfs, symfs value at buy most recent 4pm(price,tickers used is as per the 4pm run data from the Signal file) and symf value at the recent run of this report. Then percentage change is displayed. (today-yesterday)*100/yesterday. This will run almost everytime signal job runs.
 https://drive.google.com/file/d/13h8Rxx8h-k5n9YFAJzF_QZ54sZdaEwnx/view?usp=sharing
