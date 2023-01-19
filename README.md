@@ -13,7 +13,7 @@ Gain % since last Market Close - this chart is updated every 15 minutes from 9am
 Mappings of various composer symphony and the short names used in output sheet -- https://docs.google.com/spreadsheets/d/1duub-kYJIrBrEEbuytyWt7L7xuD-BmkwCTH86usd4oI/edit#gid=0
 
 Link to output file -
-aggregated view in a column of last run [might end up using this one for tda bot trading] - https://drive.google.com/file/d/13ER4Rvm9vo0b-LvPvSwjgs0PwTROJuMa/view?usp=sharing
+aggregated view in a column of last run [might end up using this one for tda bot trading check the wiki page for tdTrader details. ] - https://drive.google.com/file/d/13ER4Rvm9vo0b-LvPvSwjgs0PwTROJuMa/view?usp=sharing
 This file will be generated at 10:15am, 12:30pm, 12:56pm, 2:30pm, 3:01pm, 3:15pm.. every 10 minutes then until 4:01pm, 8:30pm
 
 Link to Current Percentage Gain Report for various symfs in mapping file. This file will show symfs, symfs value at buy most recent 4pm(price,tickers used is as per the 4pm run data from the Signal file) and symf value at the recent run of this report. Then percentage change is displayed. (today-yesterday)*100/yesterday. This will run almost everytime signal job runs.
@@ -27,7 +27,7 @@ Ideally most recent 4pm will refer to previous day 4pm. but if the report is run
 
 
 unaggregated, row view of last run - https://drive.google.com/file/d/13ciEIPwTFsCArVO0HMpfQq_fvtOIdOse/view?usp=drivesdk
-This view will have entries in row format. one row for eash symph. Here is how to read signal value in this file [Signal="Ticker1_<Allocation_in_decimal_percent>.<number indication line number that generated this ticker/allocation in my code for debug purpose>"]
+This view will have entries in row format. one row for eash symph. Here is how to read signal value in this file [Signal="Ticker1_<Allocation_in_decimal_percent>.<number indication line number that generated this ticker/allocation in my code for debug purpose>"] It may have some entries that are not in main Symph_Signal.csv file in cases where total allocation adds up to be more than 105%. It is possible in situations where some branches have a list of tickers without explicitly specifying percentage alloaction or if inverse volatility is used.
 
 historical data [unaggregated row view] - https://drive.google.com/file/d/13Et8KRpCO9eyzGo9TDkYv_WnAP7-M3ON/view?usp=sharing
 
