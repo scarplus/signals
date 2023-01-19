@@ -27,6 +27,7 @@ Ideally most recent 4pm will refer to previous day 4pm. but if the report is run
 
 
 unaggregated, row view of last run - https://drive.google.com/file/d/13ciEIPwTFsCArVO0HMpfQq_fvtOIdOse/view?usp=drivesdk
+This view will have entries in row format. one row for eash symph. Here is how to read signal value in this file [Signal="Ticker1_<Allocation_in_decimal_percent>.<number indication line number that generated this ticker/allocation in my code for debug purpose>"]
 
 historical data [unaggregated row view] - https://drive.google.com/file/d/13Et8KRpCO9eyzGo9TDkYv_WnAP7-M3ON/view?usp=sharing
 
