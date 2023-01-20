@@ -31,7 +31,7 @@ This view will have entries in row format. one row for eash symph. Here is how t
 
 historical data [unaggregated row view] - https://drive.google.com/file/d/13Et8KRpCO9eyzGo9TDkYv_WnAP7-M3ON/view?usp=sharing
 
-historical metrrics data - https://drive.google.com/file/d/13WFpiU4bUJ2yfdUSHha1PgWZuUo-Ekui/view?usp=sharing
+historical metrics data - https://drive.google.com/file/d/13WFpiU4bUJ2yfdUSHha1PgWZuUo-Ekui/view?usp=sharing
 
 Gist file that shows code, where line number can be mapped in Singal2/Signal historical file to find the branch which triggered the signal
 bb304a- https://gist.github.com/scarplus/5d3f2a2c3d9c61d47f697e901e5ff8f3
