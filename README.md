@@ -22,7 +22,7 @@ The code behind this url hosted on Google Cloud is not as agile as the google dr
 It will take around a minute (so if needed browser can be closed after triggering it) to complete and display a json/dictionary format output . It  it is not structured as a meaningful json. A proper readable output file will be written to file after the above url call is completed at this url csv url
 https://storage.googleapis.com/randomsignals/SignalBV8G0KSWZWKJPK2.csv
 
-Link to Current Percentage Gain Report for various symfs in mapping file. This file will show symfs, symfs value at buy most recent 4pm(price,tickers used is as per the 4pm run data from the Signal file) and symf value at the recent run of this report. Then percentage change is displayed. (today-yesterday)*100/yesterday. This will run almost everytime signal job runs.
+Depricated in lieu of charts - Link to Current Percentage Gain Report for various symfs in mapping file. This file will show symfs, symfs value at buy most recent 4pm(price,tickers used is as per the 4pm run data from the Signal file) and symf value at the recent run of this report. Then percentage change is displayed. (today-yesterday)*100/yesterday. This will run almost everytime signal job runs.
 https://drive.google.com/file/d/13h8Rxx8h-k5n9YFAJzF_QZ54sZdaEwnx/view?usp=sharing
 
 Above data is stored for history in this file. Above data can be for any sell time of report run time of day, but buy data will be recent 4pm's sheet data. Historical data will be saved only for 4pm job run.
