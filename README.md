@@ -16,8 +16,9 @@ Link to output file -
 aggregated view in a column of last run [might end up using this one for tda bot trading check the wiki page for tdTrader details. ] - https://drive.google.com/file/d/13ER4Rvm9vo0b-LvPvSwjgs0PwTROJuMa/view?usp=sharing
 This file will be generated at 10:15am, 12:30pm, 12:56pm, 2:30pm, 3:01pm, 3:15pm.. every 10 minutes then until 4:01pm, 8:30pm
 
-similar Signal file can be generated on-demand by calling this google api url https://mainsignal-6rkoj3i67a-uk.a.run.app
-This code behind this url is not as agile as the google drive version, since I plan to keep the google api code as stable version and update it with new symphonies only weekly.
+Similar Signal file can be generated on-demand by calling this google api url https://mainsignal-6rkoj3i67a-uk.a.run.app
+
+The code behind this url is not as agile as the google drive version, since I plan to keep the google api code as stable version and update it with new symphonies only weekly.
 It will take around a minute (so if needed browser can be closed after triggering it) to complete and display a json/dictionary format output . It  it is not structured as a meaningful json. A proper readable output file will be written to file after the above url call is completed at this url csv url
 https://storage.googleapis.com/randomsignals/SignalBV8G0KSWZWKJPK2.csv
 
