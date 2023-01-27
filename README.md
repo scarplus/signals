@@ -13,7 +13,7 @@ Gain % since last Market Close - this chart is updated every 15 minutes from 9am
 Mappings of various composer symphony and the short names used in output sheet -- https://docs.google.com/spreadsheets/d/1duub-kYJIrBrEEbuytyWt7L7xuD-BmkwCTH86usd4oI/edit#gid=0
 
 Link to output file -
-aggregated view in a column of last run [might end up using this one for tda bot trading check the wiki page for tdTrader details. ] - https://drive.google.com/file/d/13ER4Rvm9vo0b-LvPvSwjgs0PwTROJuMa/view?usp=sharing
+aggregated view in a column of last run [might end up using this one for tda bot https://github.com/scarplus/signals/wiki/Signal-Trader-for-TDA trading check the wiki page for tdTrader details.  ] - https://drive.google.com/file/d/13ER4Rvm9vo0b-LvPvSwjgs0PwTROJuMa/view?usp=sharing
 This file will be generated at 10:15am, 12:30pm, 12:56pm, 2:30pm, 3:01pm, 3:15pm.. every 10 minutes then until 4:01pm, 8:30pm
 
 Similar Signal file can be generated on-demand by calling this google api url https://mainsignal-6rkoj3i67a-uk.a.run.app
