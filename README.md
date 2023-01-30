@@ -1,29 +1,20 @@
 # Signals
-signals generated based on algorithms for paper trading
+Signals generated based on algorithms for paper trading
 None of these are intended to be correct. It is just a fun project.
 
+This project utilizes various trading algorithms to generate Python-based output for each algorithm, indicating which ticker to hold at the time of execution for each algorithm. These algorithms are referred to as "symphony" and the outputs are referred to as "tickers" or "signals."
 
-This project is to use various trading algorithms and generate python based output for each algorithm indicating which ticker to hold at the time of run for each algorithm. Algorithm are identified as symphony and the outputs as tickers or signals.
+The project also includes a Mongo Chart that displays various metrics and performance data. This chart can be accessed at the following link: https://charts.mongodb.com/charts-signal-wuqhd/public/dashboards/8273f444-cea6-482d-b232-d27018c3120b The chart is updated every 15 minutes from 9am EST to 4pm EST, except for the "Gain % since last Market Close" chart, which is updated every 15 minutes.
 
-Any changes in links will be updated here going forward.
+Additionally, there is a mapping of various symphonies and the short names used in the output sheet, which can be found at the following link: https://docs.google.com/spreadsheets/d/1duub-kYJIrBrEEbuytyWt7L7xuD-BmkwCTH86usd4oI/edit#gid=0
 
-Mongo Chart on various metrtics/performance. https://charts.mongodb.com/charts-signal-wuqhd/public/dashboards/8273f444-cea6-482d-b232-d27018c3120b
-Gain % since last Market Close - this chart is updated every 15 minutes from 9am est to 4pm est. Other charts get updated using 3:56pm(~4pm) data everyday.
+The output file, which is an aggregated view in a column of the last run, can be accessed at the following link: https://drive.google.com/file/d/13ER4Rvm9vo0b-LvPvSwjgs0PwTROJuMa/view?usp=sharing. This file is generated at the following times: 10:15am, 12:30pm, 12:56pm, 2:30pm, 3:01pm, 3:15pm, and every 10 minutes until 4:01pm, 8:30pm.
 
-Mappings of various composer symphony and the short names used in output sheet -- https://docs.google.com/spreadsheets/d/1duub-kYJIrBrEEbuytyWt7L7xuD-BmkwCTH86usd4oI/edit#gid=0
+A similar signal file can be generated on-demand by calling the following Google API URL: https://mainsignal-6rkoj3i67a-uk.a.run.app. It is advisable to check the output file before running this as someone might have recently run it. The code behind this URL is hosted on Google Cloud and is not as agile as the Google Drive version, since it is intended to be a stable version and will only be updated with new symphonies on a weekly basis.
 
-Link to output file -
-aggregated view in a column of last run [might end up using this one for tda bot https://github.com/scarplus/signals/wiki/ trading check the wiki page for tdTrader details.  ] - https://drive.google.com/file/d/13ER4Rvm9vo0b-LvPvSwjgs0PwTROJuMa/view?usp=sharing
-This file will be generated at 10:15am, 12:30pm, 12:56pm, 2:30pm, 3:01pm, 3:15pm.. every 10 minutes then until 4:01pm, 8:30pm
+It will take around a minute to complete and display a JSON/dictionary format output. The output will not be structured as a meaningful JSON. A proper readable output file will be written to file after the above URL call is completed at the following CSV URL: https://storage.googleapis.com/randomsignals/SignalBV8G0KSWZWKJPK2.csv
 
-Similar Signal file can be generated on-demand by calling this google api url https://mainsignal-6rkoj3i67a-uk.a.run.app
-
-The code behind this url hosted on Google Cloud is not as agile as the google drive version, since I plan to keep the google api code as stable version and update it with new symphonies only weekly.
-It will take around a minute (so if needed browser can be closed after triggering it) to complete and display a json/dictionary format output . It  it is not structured as a meaningful json. A proper readable output file will be written to file after the above url call is completed at this url csv url
-https://storage.googleapis.com/randomsignals/SignalBV8G0KSWZWKJPK2.csv
-
-Depricated in lieu of charts - Link to Current Percentage Gain Report for various symfs in mapping file. This file will show symfs, symfs value at buy most recent 4pm(price,tickers used is as per the 4pm run data from the Signal file) and symf value at the recent run of this report. Then percentage change is displayed. (today-yesterday)*100/yesterday. This will run almost everytime signal job runs.
-https://drive.google.com/file/d/13h8Rxx8h-k5n9YFAJzF_QZ54sZdaEwnx/view?usp=sharing
+Please note that this data is deprecated in favor of the Charts platform and the same information can be found and downloaded there. There is also a link to a Current Percentage Gain Report for various symfs in the mapping file, which can be accessed on charts link above and same can be used to download it. This chart will show symfs, symfs value at buy most recent 4pm (price, tickers used is as per the 4pm run data from the Signal file) and symf value at the recent run of this report. Then percentage change is displayed. (today-yesterday)*100/yesterday. This will run almost every time signal job runs.
 
 Above data is stored for history in this file. Above data can be for any sell time of report run time of day, but buy data will be recent 4pm's sheet data. Historical data will be saved only for 4pm job run.
 Link to Historical Performances of symf in mapping file = https://drive.google.com/file/d/13s3WmrpppMV79UKWMteC07YOxl2rN7Ws/view?usp=sharing
