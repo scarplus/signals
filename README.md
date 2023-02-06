@@ -3,7 +3,7 @@
 
 #disclaimer 2: None of below links are to any private server. it is either google cloud, google drive or mongodb atlas. So links are not spams as of writing but depends on these providers.
 
-Signals is and are generated based on algorithms for paper trading
+Signals are generated based on algorithms for paper trading
 None of these are intended to be correct. It is just a fun project.
 
 This project utilizes various trading algorithms to generate Python-based output for each algorithm, indicating which ticker to hold at the time of execution for each algorithm. These algorithms are referred to as "symphony" and the outputs are referred to as "tickers" or "signals."
@@ -12,7 +12,7 @@ Signal Board: The project also includes a Mongo Chart Dashboard called Signal Bo
 
 Additionally, there is a mapping of various symphonies and the short names used in the output sheet, which can be found at the following link: https://docs.google.com/spreadsheets/d/1duub-kYJIrBrEEbuytyWt7L7xuD-BmkwCTH86usd4oI/edit#gid=0
 
-The output file, which is an aggregated view in a column of the last run, can be accessed at the following link: https://drive.google.com/file/d/13ER4Rvm9vo0b-LvPvSwjgs0PwTROJuMa/view?usp=sharing. This file is generated at the following times: 10:15am, 12:30pm, 12:56pm, 2:30pm, 3:01pm, 3:15pm, and every 10 minutes until 4:01pm, 8:30pm.
+The output file, aka Signals, which is an aggregated view in a column of the last run, can be accessed at the following link: https://drive.google.com/file/d/13ER4Rvm9vo0b-LvPvSwjgs0PwTROJuMa/view?usp=sharing. This file is generated at the following times: 10:15am, 12:30pm, 12:56pm, 2:30pm, 3:01pm, 3:15pm, and every 10 minutes until 4:01pm, 8:30pm.
 
 A similar signal file can be generated on-demand by calling the following Google API URL: https://mainsignal-6rkoj3i67a-uk.a.run.app [auto scheduled to run at 3:50pm weekdays] It is advisable to check the output file before running this as someone might have recently run it. The code behind this URL is hosted on Google Cloud and is not as agile as the Google Drive version, since it is intended to be a stable version and will only be updated with new symphonies on a weekly basis.
 
