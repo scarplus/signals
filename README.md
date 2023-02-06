@@ -3,12 +3,12 @@
 
 #disclaimer 2: None of below links are to any private server. it is either google cloud, google drive or mongodb atlas. So links are not spams as of writing but depends on these providers.
 
-Signals generated based on algorithms for paper trading
+Signals is and are generated based on algorithms for paper trading
 None of these are intended to be correct. It is just a fun project.
 
 This project utilizes various trading algorithms to generate Python-based output for each algorithm, indicating which ticker to hold at the time of execution for each algorithm. These algorithms are referred to as "symphony" and the outputs are referred to as "tickers" or "signals."
 
-The project also includes a Mongo Chart that displays various metrics and performance data. This chart can be accessed at the following link: https://charts.mongodb.com/charts-signal-wuqhd/public/dashboards/8273f444-cea6-482d-b232-d27018c3120b The chart is updated every 15 minutes from 9am EST to 4pm EST, except for the "Gain % since last Market Close" chart, which is updated every 15 minutes.
+Signal Board: The project also includes a Mongo Chart Dashboard called Signal Board and it displays various metrics and performance data. This chart can be accessed at the following link: https://charts.mongodb.com/charts-signal-wuqhd/public/dashboards/8273f444-cea6-482d-b232-d27018c3120b The chart is updated every 15 minutes from 9am EST to 4pm EST, except for the "Gain % since last Market Close" chart, which is updated every 15 minutes.
 
 Additionally, there is a mapping of various symphonies and the short names used in the output sheet, which can be found at the following link: https://docs.google.com/spreadsheets/d/1duub-kYJIrBrEEbuytyWt7L7xuD-BmkwCTH86usd4oI/edit#gid=0
 
