@@ -1,7 +1,7 @@
 # Signals
 #disclaimer 1: Signals are generated using data from yahoo finance. If signals or metrics appear to differ from expected values then it may be due to yahoo finance data. 
 
-#disclaimer 2: None of below links are to any private server. it is either google cloud, google drive or mongodb atlas. So links are not spams.
+#disclaimer 2: None of below links are to any private server. it is either google cloud, google drive or mongodb atlas. So links are not spams as of writing but depends on these providers.
 
 Signals generated based on algorithms for paper trading
 None of these are intended to be correct. It is just a fun project.
