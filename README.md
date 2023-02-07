@@ -4,7 +4,7 @@
 #disclaimer 2: None of below links are to any private server. it is either google cloud, google drive or mongodb atlas. So links are not spams as of writing but depends on these providers.
 
 #disclaimer 3: None of these are intended to be correct. It is just a fun project. Check with your registered Financial Advisor for actual financial advice. This project is just random number and words coming out of some random program. 
-Signals are generated based on algorithms for paper trading
+Signals are generated based on algorithms for paper trading and fastest way to loose money if any real trade trade is done using information from here.
 
 This project utilizes various trading algorithms to generate Python-based output for each algorithm, indicating which ticker to hold at the time of execution for each algorithm. These algorithms are referred to as "symphony" and the outputs are referred to as "tickers" or "signals."
 
