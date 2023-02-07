@@ -4,7 +4,7 @@ Disclaimer 1: The information presented here is for entertainment purposes only 
 
 Disclaimer 2: The links provided below do not lead to any private servers. They are hosted on either Google Cloud, Google Drive, or MongoDB Atlas. The links are considered safe at the time of writing, but their safety is dependent on the services provided by these third-party providers.
 
-Disclaimer 3: The signals generated in this project are based on data obtained from Yahoo Finance. In the event that the signals or metrics appear to be inconsistent or deviate from expected values, it may be a result of inaccuracies or discrepancies in the data provided by Yahoo Finance.
+Disclaimer 3: The signals generated in this project are based on data obtained from Yahoo Finance. In the event that the signals or metrics appear to be inconsistent or deviate from expected values, it may be a result of inaccuracies or discrepancies in the data provided by Yahoo Finance. Yahoo says its data should not be used for trading https://help.yahoo.com/kb/exchanges-data-providers-yahoo-finance-sln2310.html
 
 This project utilizes various trading algorithms to generate Python-based output for each algorithm, indicating which ticker to hold at the time of execution for each algorithm. These algorithms are referred to as "symphony" and the outputs are referred to as "tickers" or "signals."
 
