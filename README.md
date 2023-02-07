@@ -1,10 +1,10 @@
 # Signals
-#disclaimer 1: Signals are generated using data from yahoo finance. If signals or metrics appear to differ from expected values then it may be due to yahoo finance data. 
 
-#disclaimer 2: None of below links are to any private server. it is either google cloud, google drive or mongodb atlas. So links are not spams as of writing but depends on these providers.
+Disclaimer 1: The information presented here is for entertainment purposes only and should not be considered as financial advice. Please consult a licensed financial advisor for personalized recommendations. This project uses algorithmic simulations for paper trading and should not be relied upon for actual investment decisions. Any real trading using the information provided here may result in significant financial loss.
 
-#disclaimer 3: None of these are intended to be correct. It is just a fun project. Check with your registered Financial Advisor for actual financial advice. This project is just random number and words coming out of some random program. 
-Signals are generated based on algorithms for paper trading and fastest way to loose money if any real trade trade is done using information from here.
+Disclaimer 2: The links provided below do not lead to any private servers. They are hosted on either Google Cloud, Google Drive, or MongoDB Atlas. The links are considered safe at the time of writing, but their safety is dependent on the services provided by these third-party providers.
+
+Disclaimer 3: The signals generated in this project are based on data obtained from Yahoo Finance. In the event that the signals or metrics appear to be inconsistent or deviate from expected values, it may be a result of inaccuracies or discrepancies in the data provided by Yahoo Finance.
 
 This project utilizes various trading algorithms to generate Python-based output for each algorithm, indicating which ticker to hold at the time of execution for each algorithm. These algorithms are referred to as "symphony" and the outputs are referred to as "tickers" or "signals."
 
