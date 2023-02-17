@@ -42,4 +42,5 @@ Gist file that shows code, where line number can be mapped in Singal2/Signal his
 bb304a- https://gist.github.com/scarplus/5d3f2a2c3d9c61d47f697e901e5ff8f3
 
 
+Evolution with time and performance- dynamic symf of symfs ![IMG_1538](https://user-images.githubusercontent.com/112670649/219747214-de01a59c-861a-46f5-a922-693ae1a6958f.PNG)
 
