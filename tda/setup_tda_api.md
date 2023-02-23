@@ -32,12 +32,20 @@ Now this value url decoded one, is what we will use as actual code in code field
  
 client_id=YOURCONSUMERKEY@AMER.OAUTHP
 redirect_uri=https://localhost or http://localhost ( based on what you used in "My Apps")
+![image](https://user-images.githubusercontent.com/112670649/220813122-49de9e62-5915-4f06-8210-0b998ba0f1fb.png)
+
 
 click SEND 
 check response button, it will have a success message with Bearer auth code and refresh token key. Save these two keys.
 use the value of access_token in the "your bearer key" field in sample program attached in this folder to test out a sample trade.
 
 This access_token gets expired every 30 minutes, but we can use the refresh_token that was also provided along with this to get the access_token programtically as and when needed. And we have to repeated most of the above steps to get the refresh token again after 90 days.
+![image](https://user-images.githubusercontent.com/112670649/220813238-1587f3bb-2645-4f8c-bb84-cbfe6eb0b5af.png)
+
+
+Use the value generated for refresh_token and paste it against the refresh_token variable in tdsecrets.ini This is required every 90 days.
+
+
 
 
 
