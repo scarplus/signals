@@ -36,13 +36,14 @@ clear instructions here https://developer.tdameritrade.com/content/simple-auth-l
 
 Google search for "url decode online", then use that to convert the value obtained above to a URL decoded value.
 Now this value url decoded one, is what we will use as actual code in code field here https://developer.tdameritrade.com/authentication/apis/post/token-0
+
+above 4 steps in this picture
+![image](https://github.com/scarplus/signals/assets/112670649/a9031287-ef03-47ee-b24a-1416e072b094)
  
 client_id=YOURCONSUMERKEY@AMER.OAUTHP
 redirect_uri=https://localhost or http://localhost ( based on what you used in "My Apps")
 ![image](https://user-images.githubusercontent.com/112670649/220813122-49de9e62-5915-4f06-8210-0b998ba0f1fb.png)
 
-above 4 steps in this picture
-![image](https://github.com/scarplus/signals/assets/112670649/a9031287-ef03-47ee-b24a-1416e072b094)
 
 
 click SEND 
