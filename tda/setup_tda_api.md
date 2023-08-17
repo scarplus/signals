@@ -24,6 +24,11 @@ Replace the YOURCONSUMERKEY word in below with your actual consumer Key. it is a
 https://auth.tdameritrade.com/auth?response_type=code&redirect_uri=https://localhost&client_id=YOURCONSUMERKEY%40AMER.OAUTHAP
 
 Once you have replaced the actual consumer key paste this url in the web browser and click yes/go ahead.. even it is says unsafe. if you do not know how to go around unsafe, change the redirect url in the "My App" to http://localhost instead of https://localhost
+
+After you enter id and password on a authentication page, it may show unsafe page as below.. select proceed ( this is only going to connect on your localhost)
+![image](https://github.com/scarplus/signals/assets/112670649/42ef4ec9-fb0e-4c79-8ec0-d8737b6680d0)
+
+
 At the end you may get 404 error, saying page not found, which is ok, but note down the url value now. save the part that is after code= in the browser url
 clear instructions here https://developer.tdameritrade.com/content/simple-auth-local-apps 
 
