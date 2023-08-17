@@ -28,8 +28,10 @@ Once you have replaced the actual consumer key paste this url in the web browser
 After you enter id and password on a authentication page, it may show unsafe page as below.. select proceed ( this is only going to connect on your localhost)
 ![image](https://github.com/scarplus/signals/assets/112670649/42ef4ec9-fb0e-4c79-8ec0-d8737b6680d0)
 
+After which it may show the below page. but do not close it. We need to same the string in browser url bar. Follw steps on next line.
+![image](https://github.com/scarplus/signals/assets/112670649/13dde727-7b32-41de-828d-f470cb793ea0)
 
-At the end you may get 404 error, saying page not found, which is ok, but note down the url value now. save the part that is after code= in the browser url
+At the end you may get 404 error ( as above) , saying page not found, which is ok, but note down the url value now. save the part that is after code= in the browser url
 clear instructions here https://developer.tdameritrade.com/content/simple-auth-local-apps 
 
 Google search for "url decode online", then use that to convert the value obtained above to a URL decoded value.
