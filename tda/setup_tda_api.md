@@ -41,6 +41,9 @@ client_id=YOURCONSUMERKEY@AMER.OAUTHP
 redirect_uri=https://localhost or http://localhost ( based on what you used in "My Apps")
 ![image](https://user-images.githubusercontent.com/112670649/220813122-49de9e62-5915-4f06-8210-0b998ba0f1fb.png)
 
+above 4 steps in this picture
+![image](https://github.com/scarplus/signals/assets/112670649/a9031287-ef03-47ee-b24a-1416e072b094)
+
 
 click SEND 
 check response button, it will have a success message with Bearer auth code and refresh token key. Save these two keys.
