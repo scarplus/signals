@@ -8,6 +8,8 @@ Disclaimer 3: The signals generated in this project are based on data obtained f
 
 Disclaimer 4: Based on my personal understanding and experience, I believe that the use of Maximum Drawdown as a metric for paper trading may not provide a reliable indicator to make paper trade decisions, though it can useful as metric not an indicator for evaluation of a strategy's past performance. Instead, Signals utilize the Simple Drawdown indicator. The Simple Drawdown is calculated as the difference between the highest price in the last N days and the most recent price. It is important to note that this information is based on my personal understanding and experience, and is not based on formal education or degrees. As a result, it is not recommended to use this information for real trading purposes.The Simple Drawdown for a given number of days is calculated as the difference between the highest price within the last N days and the most recent price. Please note that the signals provided by our system use Simple Drawdown calculations instead of Maximum Drawdown, which may result in differences between expected results and signals.
 
+Disclaimer 5: Until further update - all "market cap" weights will be replaced by "equal weight" if it is used in any symf due to parser limitation.
+
 
 **SIGNALS**
 
