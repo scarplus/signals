@@ -1,6 +1,6 @@
 # Signals
 
-**https://signals.slowls.com**
+**signals.slowls.com**
 
 Disclaimer 1: The information presented here is for entertainment purposes only and should not be considered as financial advice. Please consult a licensed financial advisor for personalized recommendations. This project uses algorithmic simulations for paper trading and should not be relied upon for actual investment decisions. Any real trading using the information provided here may result in significant financial loss.
 
