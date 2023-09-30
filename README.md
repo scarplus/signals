@@ -1,8 +1,10 @@
 # Signals
 
+**https://signals.slowls.com**
+
 Disclaimer 1: The information presented here is for entertainment purposes only and should not be considered as financial advice. Please consult a licensed financial advisor for personalized recommendations. This project uses algorithmic simulations for paper trading and should not be relied upon for actual investment decisions. Any real trading using the information provided here may result in significant financial loss.
 
-Disclaimer 2: The links provided below do not lead to any private servers. They are hosted on either Google Cloud, Google Drive, or MongoDB Atlas. The links are considered safe at the time of writing, but their safety is dependent on the services provided by these third-party providers.
+Disclaimer 2: Most of the links provided below do not lead to any private servers. They are hosted on either Google Cloud, Google Drive, or MongoDB Atlas. The links are considered safe at the time of writing, but their safety is dependent on the services provided by these third-party providers. My private server url is signals.slowls.com for most of same data as of charts but in tabular format and more.
 
 Disclaimer 3: The signals generated in this project are based on data obtained from Yahoo Finance. In the event that the signals or metrics appear to be inconsistent or deviate from expected values, it may be a result of inaccuracies or discrepancies in the data provided by Yahoo Finance. Yahoo says its data should not be used for trading https://help.yahoo.com/kb/exchanges-data-providers-yahoo-finance-sln2310.html
 
