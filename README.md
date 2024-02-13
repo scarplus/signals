@@ -25,7 +25,8 @@ BESTnd symfs:These BESTnd symfs are the result of capturing almost real-time tra
 
 The output file, aka Signals, which is an aggregated view in a column of the last run, can be accessed at the following link: submit acvess request for file 1
 1. https://drive.google.com/file/d/1UGLDxTcKSwLrKdBL4_EbDfrTnJARD20C/view?usp=drivesdk    
-2. https://drive.google.com/file/d/13ER4Rvm9vo0b-LvPvSwjgs0PwTROJuMa/view?usp=sharing. This file is generated at the following times: 10:15am, 12:30pm, 12:56pm, 2:30pm, 3:01pm, 3:15pm, and every 10 minutes until 4:01pm, 8:30pm.
+2. https://github.com/scarplus/signals/tree/main/data
+3. https://drive.google.com/file/d/13ER4Rvm9vo0b-LvPvSwjgs0PwTROJuMa/view?usp=sharing. This file is generated at the following times: 10:15am, 12:30pm, 12:56pm, 2:30pm, 3:01pm, 3:15pm, and every 10 minutes until 4:01pm, 8:30pm.
 
 Signal file can be used to auto trade in Alpaca or TD Ameritrade. refer wiki oage here https://github.com/scarplus/signals/wiki/Signal-Trader-for-Alpaca
 
