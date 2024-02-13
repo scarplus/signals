@@ -17,7 +17,9 @@ This project utilizes various trading algorithms to generate Python-based output
 
 Signal Board: The project also includes a Mongo Chart Dashboard called Signal Board and it displays various metrics and performance data. This chart can be accessed at the following link: https://charts.mongodb.com/charts-signal-wuqhd/public/dashboards/8273f444-cea6-482d-b232-d27018c3120b The chart is updated every 15 minutes from 9am EST to 4pm EST, except for the "Gain % since last Market Close" chart, which is updated every 15 minutes.
 
-Additionally, there is a mapping of various symphonies and the short names used in the output sheet, which can be found at the following link: https://docs.google.com/spreadsheets/d/1duub-kYJIrBrEEbuytyWt7L7xuD-BmkwCTH86usd4oI/edit#gid=0
+Additionally, there is a mapping of various symphonies and the short names used in the output sheet, which can be found at the following link: 
+1- https://raw.githubusercontent.com/scarplus/signals/main/symphony%20mappings.xlsx
+2- https://docs.google.com/spreadsheets/d/1duub-kYJIrBrEEbuytyWt7L7xuD-BmkwCTH86usd4oI/edit#gid=0
 
 BESTnd symfs:These BESTnd symfs are the result of capturing almost real-time trade data performance of almost all the symfs on the Signal board. The symfs and their past N-day performance are used to determine the selected symfs, which are combined to generate tickers. This is a dynamic group of symfs. The intention is to set it and forget it, as these BESTnd symfs will adjust their input symfs based on the performance of other symfs. Some symfs perform better in a bull market, some in a bear market, and some in a sideways market. We determine which symfs are performing well and invest in them. Look for- "Evolution with time and performance- dynamic symf of symfs" below.
 
