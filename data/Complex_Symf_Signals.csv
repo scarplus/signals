@@ -1,3 +1,16 @@
-symphony,ticker,ticker_allocation_percent,price
-sbsns240311,FNGU,5.0,336.5
-sbsns240311,SOXL,5.0,45.87
+,Symphony,Ticker,Ticker Allocation Percent,Price
+0,B692Q240313,MSTR,100.0,1877.82
+1,dynm240304,COIN,25.0,267.01
+3,dynm240304,MSTR,35.0,1877.82
+2,dynm240304,GBTC,40.0,62.08
+9,slwrl240226,SVIX,0.01,42.42
+8,slwrl240226,SPXS,0.92,8.94
+13,slwrl240226,VIXM,2.19,15.77
+6,slwrl240226,IEF,4.37,94.38
+4,slwrl240226,BGX,5.58,12.3
+5,slwrl240226,BTAL,5.82,18.14
+7,slwrl240226,QQQ,5.82,443.19
+12,slwrl240226,UPRO,8.75,68.82
+11,slwrl240226,TQQQ,23.74,61.31
+10,slwrl240226,SVXY,42.74,112.75
+14,info,"03/26/2024, 15:57:04",https://github.com/scarplus/signals,cashapp:$VISIgnals
