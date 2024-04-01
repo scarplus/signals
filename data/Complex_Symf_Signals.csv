@@ -1,1 +1,21 @@
-symphony,ticker,ticker_allocation_percent,price
+,Symphony,Ticker,Ticker Allocation Percent,Price
+0,B692Q240313,CROX,32.0,145.96
+1,B692Q240313,MU,68.0,124.43
+2,dynm240304,BIL,6.67,91.43
+4,dynm240304,QID,10.0,8.92
+7,dynm240304,UUP,10.0,28.5
+3,dynm240304,PSQ,18.0,8.74
+6,dynm240304,UPRO,26.67,70.31
+5,dynm240304,TQQQ,28.67,62.02
+14,slwrl240226,SVIX,0.01,42.22
+12,slwrl240226,SPXS,0.97,8.77
+10,slwrl240226,IEF,4.37,93.51
+9,slwrl240226,BTAL,5.82,18.18
+11,slwrl240226,QQQ,5.82,445.2
+8,slwrl240226,BGX,6.63,12.3
+18,slwrl240226,VIXM,8.07,15.84
+17,slwrl240226,UPRO,8.75,70.31
+13,slwrl240226,SPXU,14.24,6.49
+16,slwrl240226,TQQQ,14.99,62.02
+15,slwrl240226,SVXY,30.28,112.49
+19,info,"04/01/2024, 15:57:33",https://github.com/scarplus/signals,cashapp:$VISIgnals
