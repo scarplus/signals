@@ -1,6 +1,7 @@
 symphony,ticker,ticker_allocation_percent,price
 B692Q240313,PBR,100.0,16.93
-anan240409,SOXL,100.0,31.97
+anan240409,SOXL,50.0,31.97
+anan240409,SPLV,50.0,64.03
 dynm240304,BIL,20.0,91.69
 dynm240304,QQQ,10.0,418.82
 dynm240304,TMV,22.42,39.94
