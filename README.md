@@ -24,9 +24,10 @@ Additionally, there is a mapping of various symphonies and the short names used 
 BESTnd symfs:These BESTnd symfs are the result of capturing almost real-time trade data performance of almost all the symfs on the Signal board. The symfs and their past N-day performance are used to determine the selected symfs, which are combined to generate tickers. This is a dynamic group of symfs. The intention is to set it and forget it, as these BESTnd symfs will adjust their input symfs based on the performance of other symfs. Some symfs perform better in a bull market, some in a bear market, and some in a sideways market. We determine which symfs are performing well and invest in them. Look for- "Evolution with time and performance- dynamic symf of symfs" below.
 
 The output file, aka Signals, which is an aggregated view in a column of the last run, can be accessed at the following link: submit acvess request for file 1
-1. https://drive.google.com/file/d/1UGLDxTcKSwLrKdBL4_EbDfrTnJARD20C/view?usp=drivesdk    
-2. https://github.com/scarplus/signals/tree/main/data
-3. https://drive.google.com/file/d/13ER4Rvm9vo0b-LvPvSwjgs0PwTROJuMa/view?usp=sharing. This file is generated at the following times: 10:15am, 12:30pm, 12:56pm, 2:30pm, 3:01pm, 3:15pm, and every 10 minutes until 4:01pm, 8:30pm.
+1. https://drive.google.com/file/d/1UGLDxTcKSwLrKdBL4_EbDfrTnJARD20C/view?usp=drivesdk         -- with 2 digit float values for allocation percent
+2. https://drive.google.com/file/d/1WeCV4a-H7FXcLGO-89hO2xAoPJwrUz7e/view?usp=drive_link       -- with only integers for allocation percent
+3. https://github.com/scarplus/signals/tree/main/data
+4. https://drive.google.com/file/d/13ER4Rvm9vo0b-LvPvSwjgs0PwTROJuMa/view?usp=sharing. This file is generated at the following times: 10:15am, 12:30pm, 12:56pm, 2:30pm, 3:01pm, 3:15pm, and every 10 minutes until 4:01pm, 8:30pm.
 
 Signal file can be used to auto trade in Alpaca or TD Ameritrade. refer wiki oage here https://github.com/scarplus/signals/wiki/Signal-Trader-for-Alpaca
 
