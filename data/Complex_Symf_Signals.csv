@@ -1,3 +1,5 @@
-symphony,ticker,ticker_allocation_percent,price
-overc240808,BIL,24.84,91.58
-overc240808,TQQQ,75.18,63.62
+,Symphony,Ticker,Ticker Allocation Percent,Price
+198,dynm240304,SHY,25.0,82.52
+200,dynm240304,TQQQ,25.0,71.28
+199,dynm240304,TECL,50.0,89.46
+201,info,"08/19/2024, 15:57:22",https://github.com/scarplus/signals,cashapp:$VISIgnals
