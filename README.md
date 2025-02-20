@@ -1,3 +1,6 @@
+> ⚠️ **Most symfs are now broken due to a limitation on yfinance from Yahoo.**  
+> Discussion: [GitHub Issue #2296](https://github.com/ranaroussi/yfinance/discussions/2296)
+
 # Signals
 
 **http://signals.slowls.com**  [use incognito mode if not working]
